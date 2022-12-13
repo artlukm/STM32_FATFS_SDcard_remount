@@ -1,0 +1,12 @@
+.cproject
+.mxproject
+.project
+SD_SPI Debug.launch
+SD_SPI.ioc
+STM32F429ZITX_FLASH.ld
+STM32F429ZITX_RAM.ld
+
+.settings/
+Debug/
+Drivers/
+
