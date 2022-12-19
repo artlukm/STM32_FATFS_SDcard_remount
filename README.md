@@ -15,7 +15,7 @@ void disk_DeInitialize (
 }
 
 Add this function to f_mount, to call it when unmounting a disk.
-See in the code STM32f4-discovery.
+See in the code STM32f4-discovery https://github.com/RomanYankov/STM32_FATFS_SDcard_remount.
 
 Tutorial: SD card over SPI using STM32CubeIDE and FatFS
 Reference :
