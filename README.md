@@ -1,11 +1,6 @@
 <h1 align="center">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-STM32_FATFS_SDcard_remount
-
-Bug FATFS 0.12c
-How to proper remount SD card using FATFS.
-STM32 and SD card FATFS via SPI.
+<h3 align="center">I present to your attention the bug FATFS of re-mounting the card
 
 If your code works fine, but after reinstalling the SD card, it no longer works, most likely you are facing the this problem.
 When reinserting the card. Function f_mount() no longer works, returns an error FR_DISK_ERR.
