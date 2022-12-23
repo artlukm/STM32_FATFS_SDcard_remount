@@ -1,4 +1,4 @@
-1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Roman</a> 
+Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 STM32_FATFS_SDcard_remount
