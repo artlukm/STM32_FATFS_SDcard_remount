@@ -1,5 +1,9 @@
-# STM32_FATFS_SDcard_remount
+1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Roman</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+STM32_FATFS_SDcard_remount
+
+Bug FATFS 0.12c
 How to proper remount SD card using FATFS.
 STM32 and SD card FATFS via SPI.
 
